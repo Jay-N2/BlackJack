@@ -1,3 +1,10 @@
+#Data Structures Mini Project 
+
+'''Built by-
+Jay Nadkarni-2021300081
+Shubham More- 2021300079
+Sahil Nannaware- 2021300083'''
+
 from random import seed
 from datetime import datetime
 from time import sleep
